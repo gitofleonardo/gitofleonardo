@@ -1,5 +1,9 @@
 ### Hi gitofleonardo 👋
 
++ Development with Linux is recommended.
++ Shell is powerful.
++ Arch user.
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitofleonardo&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitofleonardo&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
