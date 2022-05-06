@@ -2,7 +2,7 @@
 
 + Development with Linux is recommended.
 + Shell is powerful.
-+ Arch user.
++ Love ArchLinux.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitofleonardo&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
