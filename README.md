@@ -2,6 +2,8 @@
 
 val tags = ["Android", "ArchLinux", "Linux", "Kotlin", "Java", "Bash", "Minecraft"]
 
+996 NO TIME REMAINED FOR PERSONAL PROJECTS.
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitofleonardo&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitofleonardo&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
