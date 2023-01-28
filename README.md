@@ -1,6 +1,6 @@
 ### Hi gitofleonardo 👋
 
-val tags = ["Android", "ArchLinux", "Linux", "Kotlin", "Java", "Bash", "Minecraft"]
+val tags = ["Android", "ArchLinux", "Linux", "Kotlin", "Java", "Bash"]
 
 996 NO TIME REMAINED FOR PERSONAL PROJECTS.
 
