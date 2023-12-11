@@ -2,6 +2,8 @@
 
 val tags = ["Android", "Linux", "Kotlin", "Java", "Bash"]
 
+Random death, random resurrection, random updates
+
 | Stats | Langs |
 |--|--|
 | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitofleonardo&theme=dark)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitofleonardo&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) |
