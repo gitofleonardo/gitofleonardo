@@ -2,7 +2,7 @@
 
 val tags = ["Android", "Linux", "Kotlin", "Java", "Bash"]
 
-Random death, random resurrection, random updates
+作者大约的确已经似了罢（
 
 | Stats | Langs |
 |--|--|
