@@ -1,24 +1,9 @@
-### Hi gitofleonardo 👋
+## Hi，这里是 gitofleonardo :)
 
-val tags = ["Android", "Linux", "Kotlin", "Java", "Bash"]
+忙于工作与生活，可能不会太关注 issues，自由时间更新 :)
 
-作者大约的确已经似了罢（
+如果你愿意给我这个鸽子作者的项目 stars，我会非常感激 :)
 
-| Stats | Langs |
-|--|--|
-| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitofleonardo&theme=dark)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitofleonardo&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) |
+## 妙妙屋数据
 
-<!--
-**gitofleonardo/gitofleonardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitofleonardo&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
